@@ -1,0 +1,10 @@
+@import url(./normalize.css);
+
+:root {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
